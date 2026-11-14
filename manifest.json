@@ -1,8 +1,10 @@
 {
   "name": "Космический умножайка",
   "short_name": "Умножайка",
-  "start_url": "./index.html",
-  "display": "fullscreen",
+  "description": "Игра для изучения таблицы умножения в космосе",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
   "background_color": "#0b0d2a",
   "theme_color": "#0b0d2a",
   "icons": [
