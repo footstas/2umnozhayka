@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Таблица умножения на 2 и 3",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "умножение 2 и 3",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Приложение которое помогает ребенку выучить таблицу умножения в игровой форме",
+  "categories": [
+    "development",
+    "education",
+    "entertainment",
+    "games",
+    "kids"
+  ]
+}
